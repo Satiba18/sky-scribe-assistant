@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node.js
+node_modules/
+package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
